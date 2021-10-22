@@ -1,6 +1,6 @@
-# teampods (team)
+# blec (blec)
 
-A Quasar Framework app
+Building Managment
 
 ## Install the dependencies
 ```bash

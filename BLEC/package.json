@@ -1,9 +1,9 @@
 {
-  "name": "team",
+  "name": "blec",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
-  "productName": "teampods",
-  "author": "ethan roman <ethanroman@ymail.com>",
+  "description": "Building Managment",
+  "productName": "blec",
+  "author": "Ethan Roman ",
   "private": true,
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
@@ -13,7 +13,6 @@
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "quasar": "^2.0.0",
-    "vue-i18n": "^9.0.0",
     "vuex": "^4.0.1"
   },
   "devDependencies": {
